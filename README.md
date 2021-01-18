@@ -1,5 +1,5 @@
 <div>
-    <img src="https://img.shields.io/badge/-git-000000?style=flat-square&logo=git"/>
+    <img src="https://img.shields.io/badge/-git-000000?style=flat-square&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go"/>
     <img src="https://img.shields.io/badge/-GNU/Linux-000000?style=flat-square&logo=linux"/>
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript"/>
