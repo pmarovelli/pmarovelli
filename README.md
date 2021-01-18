@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5&logoColor=E44D26"/>
